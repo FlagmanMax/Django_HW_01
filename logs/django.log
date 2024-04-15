@@ -1,0 +1,91 @@
+Watching for file changes with StatReloader
+C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+Watching for file changes with StatReloader
+page THREE started
+"GET /5/three/ HTTP/1.1" 200 2
+page THREE started
+"GET /5/three/ HTTP/1.1" 200 1
+page THREE started
+"GET /5/three/ HTTP/1.1" 200 2
+"GET /5/two HTTP/1.1" 301 0
+page TWO started
+"GET /5/two/ HTTP/1.1" 200 1
+page TWO started
+"GET /5/two/ HTTP/1.1" 200 1
+page TWO started
+"GET /5/two/ HTTP/1.1" 200 1
+page TWO started
+"GET /5/two/ HTTP/1.1" 200 1
+C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\seminar_01_proj\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\seminar_01_proj\settings.py changed, reloading.
+INFO 2024-04-15 15:17:47,193 autoreload 13456 10148Watching for file changes with StatReloader
+INFO 2024-04-15 15:17:49,600 views 13456 20716page TWO started
+INFO 2024-04-15 15:17:49,601 basehttp 13456 20716"GET /5/two/ HTTP/1.1" 200 1
+INFO 2024-04-15 15:17:50,580 views 13456 20716page TWO started
+INFO 2024-04-15 15:17:50,581 basehttp 13456 20716"GET /5/two/ HTTP/1.1" 200 1
+INFO 2024-04-15 15:17:51,300 views 13456 20716page TWO started
+INFO 2024-04-15 15:17:51,300 basehttp 13456 20716"GET /5/two/ HTTP/1.1" 200 1
+INFO 2024-04-15 15:24:04,837 autoreload 13456 10148C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:24:05,318 autoreload 19116 7652Watching for file changes with StatReloader
+INFO 2024-04-15 15:26:02,501 autoreload 19116 7652C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:26:03,081 autoreload 10224 3212Watching for file changes with StatReloader
+INFO 2024-04-15 15:27:34,715 autoreload 10224 3212C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:27:35,383 autoreload 8000 5396Watching for file changes with StatReloader
+INFO 2024-04-15 15:28:30,096 autoreload 8000 5396C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:28:30,526 autoreload 2752 12292Watching for file changes with StatReloader
+INFO 2024-04-15 15:28:48,311 autoreload 2752 12292C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:28:48,835 autoreload 18616 20408Watching for file changes with StatReloader
+INFO 2024-04-15 15:29:36,348 autoreload 18616 20408C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\urls.py changed, reloading.
+INFO 2024-04-15 15:29:36,817 autoreload 19228 21108Watching for file changes with StatReloader
+INFO 2024-04-15 15:29:54,016 basehttp 19228 2780"GET / HTTP/1.1" 200 13
+WARNING 2024-04-15 15:29:56,727 log 19228 2780Not Found: /5
+WARNING 2024-04-15 15:29:56,728 basehttp 19228 2780"GET /5 HTTP/1.1" 404 2352
+INFO 2024-04-15 15:30:01,756 basehttp 19228 2780"GET /5/index HTTP/1.1" 301 0
+INFO 2024-04-15 15:30:01,768 views 19228 7232index page started
+INFO 2024-04-15 15:30:01,768 basehttp 19228 7232"GET /5/index/ HTTP/1.1" 200 373
+INFO 2024-04-15 15:31:57,783 autoreload 19228 21108C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:31:58,272 autoreload 12324 15984Watching for file changes with StatReloader
+INFO 2024-04-15 15:31:58,358 views 12324 21120 /5/index page started
+INFO 2024-04-15 15:31:58,359 basehttp 12324 21120"GET /5/index/ HTTP/1.1" 200 418
+INFO 2024-04-15 15:32:10,910 autoreload 12324 15984C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:32:11,376 autoreload 1652 16004Watching for file changes with StatReloader
+INFO 2024-04-15 15:32:11,881 views 1652 3460 /5/index page started
+INFO 2024-04-15 15:32:11,882 basehttp 1652 3460"GET /5/index/ HTTP/1.1" 200 422
+INFO 2024-04-15 15:32:16,826 autoreload 1652 16004C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:32:17,290 autoreload 16084 9172Watching for file changes with StatReloader
+INFO 2024-04-15 15:32:17,575 views 16084 3584 /5/index page started
+INFO 2024-04-15 15:32:17,576 basehttp 16084 3584"GET /5/index/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:32:35,080 autoreload 16084 9172C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:32:35,526 autoreload 9256 3544Watching for file changes with StatReloader
+INFO 2024-04-15 15:33:11,744 autoreload 9256 3544C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\views.py changed, reloading.
+INFO 2024-04-15 15:33:12,197 autoreload 21032 1016Watching for file changes with StatReloader
+INFO 2024-04-15 15:33:12,473 views 21032 15948 /5/index page started
+INFO 2024-04-15 15:33:12,474 basehttp 21032 15948"GET /5/index/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:33:15,310 views 21032 15948 /5/index page started
+INFO 2024-04-15 15:33:15,311 basehttp 21032 15948"GET /5/index/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:33:19,568 basehttp 21032 15948"GET /5/about HTTP/1.1" 301 0
+INFO 2024-04-15 15:33:19,578 views 21032 14024 /5/index page started
+INFO 2024-04-15 15:33:19,579 basehttp 21032 14024"GET /5/about/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:33:26,221 views 21032 14024 /5/index page started
+INFO 2024-04-15 15:33:26,222 basehttp 21032 14024"GET /5/about/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:33:45,741 views 21032 14024 /5/index page started
+INFO 2024-04-15 15:33:45,742 basehttp 21032 14024"GET /5/about/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:33:46,709 views 21032 14024 /5/index page started
+INFO 2024-04-15 15:33:46,709 basehttp 21032 14024"GET /5/about/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:33:48,515 views 21032 14024 /5/index page started
+INFO 2024-04-15 15:33:48,516 basehttp 21032 14024"GET /5/about/ HTTP/1.1" 200 423
+WARNING 2024-04-15 15:34:30,140 log 21032 14024Not Found: /5
+WARNING 2024-04-15 15:34:30,140 basehttp 21032 14024"GET /5 HTTP/1.1" 404 2352
+INFO 2024-04-15 15:34:56,066 autoreload 21032 1016C:\Work\!GB\16 Django\01_Seminar\project\seminar_01_proj\app_05\urls.py changed, reloading.
+INFO 2024-04-15 15:34:56,622 autoreload 11924 352Watching for file changes with StatReloader
+WARNING 2024-04-15 15:34:57,257 log 11924 10080Not Found: /5
+WARNING 2024-04-15 15:34:57,258 basehttp 11924 10080"GET /5 HTTP/1.1" 404 2352
+INFO 2024-04-15 15:35:02,136 views 11924 10080 /5/index page started
+INFO 2024-04-15 15:35:02,137 basehttp 11924 10080"GET /5/index/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:35:04,280 views 11924 10080 /5/index page started
+INFO 2024-04-15 15:35:04,280 basehttp 11924 10080"GET /5/index/ HTTP/1.1" 200 423
+INFO 2024-04-15 15:35:06,970 views 11924 10080 /5/about page started
+INFO 2024-04-15 15:35:06,970 basehttp 11924 10080"GET /5/about/ HTTP/1.1" 200 423
